@@ -14,4 +14,5 @@
 | luci-app-tencentddns | [Tencent-Cloud-Plugins](https://github.com/Tencent-Cloud-Plugins/tencentcloud-openwrt-plugin-ddns) |
 | luci-app-poweroff    | [esirplayground](https://github.com/esirplayground/luci-app-poweroff) |
 | luci-app-helloworld  | [jerrykuku](https://github.com/jerrykuku/luci-app-vssr)      |
+| luci-theme-neobird   | [thinktip](https://github.com/thinktip/luci-theme-neobird)   |
 
