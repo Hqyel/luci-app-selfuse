@@ -8,11 +8,11 @@
 # 修改
 
 - luci-app-tencentddns将原有分类修改为了services。
-- 由于自带源中已经含有helloworld插件，故在本仓库删除掉，以免重复。
 
 | 插件名               | 作者及项目地址                                               |
 | -------------------- | ------------------------------------------------------------ |
 | luci-app-tencentddns | [Tencent-Cloud-Plugins](https://github.com/Tencent-Cloud-Plugins/tencentcloud-openwrt-plugin-ddns) |
 | luci-app-poweroff    | [esirplayground](https://github.com/esirplayground/luci-app-poweroff) |
+| luci-app-helloworld  | [jerrykuku](https://github.com/jerrykuku/luci-app-vssr)      |
 | luci-theme-neobird   | [thinktip](https://github.com/thinktip/luci-theme-neobird)   |
 
